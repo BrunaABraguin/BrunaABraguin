@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Bruna Andrade Braguin</h1>
 <h3 align="center">A passionate Front-End Developer from Brazil 👨‍💻</h3>
 
+<br>
+
 - 🌱 I’m currently learning **Modern JavaScript, React,MERN Stack, PHP & Java OOP.**
 
 - 👨‍💻 One of my projects are available at [https://bitbucket.org/tcceducation/aprendi-app](https://bitbucket.org/tcceducation/aprendi-app)
