@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunaabraguin&label=Profile%20views&color=0e75b6&style=flat" alt="brunaabraguin" /> </p>
 
-- 🌱 I’m currently learning **Modern JavaScript, React, MERN Stack, PHP & Java OOP.**
-
-- 👨‍💻 One of my projects are available at [https://bitbucket.org/tcceducation/aprendi-app](https://bitbucket.org/tcceducation/aprendi-app)
+- 🌱 I’m currently learning **Modern JavaScript, MEAN Stack**
 
 - 📫 How to reach me **andradevbruna@gmail.com**
-
-- 📄 Know about my experiences on work :) [https://www.canva.com/design/DAEZ43xsbPs/EwYNUZLDsa08_HoaImvFKQ/view?website#2](https://www.canva.com/design/DAEZ43xsbPs/EwYNUZLDsa08_HoaImvFKQ/view?website#2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
